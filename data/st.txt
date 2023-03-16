@@ -1,0 +1,6 @@
+rno|name|city
+1|Ravi|surat
+6|ajay|surat
+9|akash|surat
+16|alia|surat
+20|santa|surat
